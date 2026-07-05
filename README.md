@@ -1,11 +1,11 @@
 # Game2 - Brick Breaker
 
-This folder contains Game2 as a static web game.
+Game2 is a static web game published with GitHub Pages.
 
-GitHub Pages entry file:
+Public URL:
+
+- https://23001036-leo.github.io/game2/
+
+Entry file:
 
 - `index.html`
-
-Public URL after enabling GitHub Pages:
-
-- `https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/`
